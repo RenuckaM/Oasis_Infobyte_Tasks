@@ -1,8 +1,10 @@
 # Oasis_Infobyte_Tasks
-# Graphic Design Internship at Oasis Infobyte
+**Graphic Design Internship at Oasis Infobyte**
 
 ## Task 1
 **Posters and Flyers:** During my internship at Oasis Infobyte, I had the opportunity to create eye-catching posters and flyers for various events and promotions. I learned to blend creativity with effective messaging to capture the audience's attention and convey the desired information succinctly.
+![image](https://github.com/RenuckaM/Oasis_Infobyte_Tasks/assets/147283564/85dd404f-9d9f-4fbc-a7b1-a4d7f118b441)
+
 
 ## Task 2
 **Logo Design:** Crafting logos was an exciting challenge where I delved into the essence of each brand to create unique visual identities. Through this task, I honed my skills in symbolism, typography, and brand representation, ensuring that each logo resonated with its target audience.
